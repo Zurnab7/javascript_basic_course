@@ -41,3 +41,5 @@ console.log((3+9) * 6);
 // === strickly check and also data type 
 //console.log("2"==2); will show both equal as convert string into data type
 //console.log("2"==2); strickly checked, will not show equal as strings != number
+//************ DATA TYPES **********to store and access the data by using these data types
+// Primituve types
